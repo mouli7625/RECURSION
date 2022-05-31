@@ -1,0 +1,39 @@
+* Question 1
+
+Triangle
+
+ We have triangles made of wodden blocks. The topmost row has 1 block, the next row down has 2 blocks, the next row has 3 blocks, and so on. Compute recursively (no loops or multiplication) the total number of blocks in such an arrangement of triangles with the given number of rows.
+
+For example,
+
+    triangle(2) → 3
+
+Function specification:
+
+int triangle(int n)
+
+
+
+Input format
+Input consists of a single integer corresponding to the number of triangles
+
+Output format
+The output consists of a single integer corresponding to the total number of blocks
+
+* Question 2
+
+A recursive method should return the reverse of a N digit number
+
+* Question 3
+
+The recursive method should return the number of ways to express x as sum of n-th powers of unique natural numbers
+
+*Question 4
+ The recursive method should display the last non-zero digit of n! 
+
+*Question 5
+
+The recursive method should display numbers from 1 to N
+
+
+
